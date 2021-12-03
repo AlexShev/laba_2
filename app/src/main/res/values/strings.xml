@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">Готовь морковь</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="enter">Войти</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="enter_e_mail">Введите почту</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="enter_in_application">ввход в аккаунт</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_recipes">Список рецептов</string>
+    <string name="title_description">Выбранный рецепт</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="emails">
+        <item>Lera@gmail.com</item>
+        <item>Alex@gmail.com</item>
+        <item>aegagae@gmail.com</item>
+        <item>Leraegqwg@gmail.com</item>
+        <item>l.com</item>
+    </string-array>
+
+    <string name="kalorias">&lt;u>Калорийность:&lt;/u></string>
+    <string name="time">&lt;u>Время приготовления:&lt;/u></string>
+    <string name="ingredients">&lt;u>Ингредиенты:&lt;/u></string>
+
+
+    <string-array name="passwords">
+        <item>000</item>
+        <item>111</item>
+        <item>zrbsb</item>
+        <item>436346</item>
+        <item>0</item>
+    </string-array>
+
+    <string-array name="recipes">
+        <item>Пельмени</item>
+        <item>Плов</item>
+        <item>Гречка</item>
+        <item>Котлеты по Киевски</item>
+        <item>Рулеты</item>
+        <item>Пицца</item>
+        <item>Отбивная</item>
+        <item>Шницель</item>
+        <item>Роллы</item>
+        <item>Страгонина</item>
+        <item>Доширак</item>
+        <item>Маккороны</item>
+        <item>Рулеты</item>
+        <item>Котлеты по пожарски</item>
+        <item>Рулеты</item>
+        <item>Мороженное</item>
+        <item>Шоколад</item>
+        <item>Штрудель</item>
+        <item>Торт</item>
+        <item>Чискейк</item>
+        <item>Чай</item>
+        <item>Капучино</item>
+        <item>Латте</item>
+        <item>Американо</item>
+        <item>Молочный коктель</item>
+        <item>Пельмени</item>
+        <item>Плов</item>
+        <item>Гречка</item>
+        <item>Котлеты по Киевски</item>
+        <item>Рулеты</item>
+        <item>Пицца</item>
+        <item>Отбивная</item>
+        <item>Шницель</item>
+        <item>Роллы</item>
+        <item>Страгонина</item>
+        <item>Доширак</item>
+        <item>Маккороны</item>
+        <item>Рулеты</item>
+        <item>Котлеты по пожарски</item>
+        <item>Рулеты</item>
+        <item>Мороженное</item>
+        <item>Шоколад</item>
+        <item>Штрудель</item>
+        <item>Торт</item>
+        <item>Чискейк</item>
+        <item>Чай</item>
+        <item>Капучино</item>
+        <item>Латте</item>
+        <item>Американо</item>
+        <item>Молочный коктель</item>
+        <item>Пельмени</item>
+        <item>Плов</item>
+        <item>Гречка</item>
+        <item>Котлеты по Киевски</item>
+        <item>Рулеты</item>
+        <item>Пицца</item>
+        <item>Отбивная</item>
+        <item>Шницель</item>
+        <item>Роллы</item>
+        <item>Страгонина</item>
+        <item>Доширак</item>
+        <item>Маккороны</item>
+        <item>Рулеты</item>
+        <item>Котлеты по пожарски</item>
+        <item>Рулеты</item>
+        <item>Мороженное</item>
+        <item>Шоколад</item>
+        <item>Штрудель</item>
+        <item>Торт</item>
+        <item>Чискейк</item>
+        <item>Чай</item>
+        <item>Капучино</item>
+        <item>Латте</item>
+        <item>Американо</item>
+        <item>Молочный коктель</item>
+        <item>Пельмени</item>
+        <item>Плов</item>
+        <item>Гречка</item>
+        <item>Котлеты по Киевски</item>
+        <item>Рулеты</item>
+        <item>Пицца</item>
+        <item>Отбивная</item>
+        <item>Шницель</item>
+        <item>Роллы</item>
+        <item>Страгонина</item>
+        <item>Доширак</item>
+        <item>Маккороны</item>
+        <item>Рулеты</item>
+        <item>Котлеты по пожарски</item>
+        <item>Рулеты</item>
+        <item>Мороженное</item>
+        <item>Шоколад</item>
+        <item>Штрудель</item>
+        <item>Торт</item>
+        <item>Чискейк</item>
+        <item>Чай</item>
+        <item>Капучино</item>
+        <item>Латте</item>
+        <item>Американо</item>
+        <item>Молочный коктель</item>
+        <item>Пельмени</item>
+        <item>Плов</item>
+        <item>Гречка</item>
+        <item>Котлеты по Киевски</item>
+        <item>Рулеты</item>
+        <item>Пицца</item>
+        <item>Отбивная</item>
+        <item>Шницель</item>
+        <item>Роллы</item>
+        <item>Страгонина</item>
+        <item>Доширак</item>
+        <item>Маккороны</item>
+        <item>Рулеты</item>
+        <item>Котлеты по пожарски</item>
+        <item>Рулеты</item>
+        <item>Мороженное</item>
+        <item>Шоколад</item>
+        <item>Штрудель</item>
+        <item>Торт</item>
+        <item>Чискейк</item>
+        <item>Чай</item>
+        <item>Капучино</item>
+        <item>Латте</item>
+        <item>Американо</item>
+        <item>Молочный коктель</item>
+        <item>Пельмени</item>
+        <item>Плов</item>
+        <item>Гречка</item>
+        <item>Котлеты по Киевски</item>
+        <item>Рулеты</item>
+        <item>Пицца</item>
+        <item>Отбивная</item>
+        <item>Шницель</item>
+        <item>Роллы</item>
+        <item>Страгонина</item>
+        <item>Доширак</item>
+        <item>Маккороны</item>
+        <item>Рулеты</item>
+        <item>Котлеты по пожарски</item>
+        <item>Рулеты</item>
+        <item>Мороженное</item>
+        <item>Шоколад</item>
+        <item>Штрудель</item>
+        <item>Торт</item>
+        <item>Чискейк</item>
+        <item>Чай</item>
+        <item>Капучино</item>
+        <item>Латте</item>
+        <item>Американо</item>
+        <item>Молочный коктель</item>
+        <item>Пельмени</item>
+        <item>Плов</item>
+        <item>Гречка</item>
+        <item>Котлеты по Киевски</item>
+        <item>Рулеты</item>
+        <item>Пицца</item>
+        <item>Отбивная</item>
+        <item>Шницель</item>
+        <item>Роллы</item>
+        <item>Страгонина</item>
+        <item>Доширак</item>
+        <item>Маккороны</item>
+        <item>Рулеты</item>
+        <item>Котлеты по пожарски</item>
+        <item>Рулеты</item>
+        <item>Мороженное</item>
+        <item>Шоколад</item>
+        <item>Штрудель</item>
+        <item>Торт</item>
+        <item>Чискейк</item>
+        <item>Чай</item>
+        <item>Капучино</item>
+        <item>Латте</item>
+        <item>Американо</item>
+        <item>Молочный коктель</item>
+    </string-array>
+</resources>

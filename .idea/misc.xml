@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/Wear/src/main/res/layout/activity_main.xml" value="1.0" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/Wear/src/main/res/layout/recycle.xml" value="1.3285714285714285" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/Wear/src/main/res/layout/recycle_.xml" value="1.2321428571428572" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/Wear/src/main/res/layout/recycler_view_item.xml" value="0.4953271028037383" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21944444444444444" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/app/src/main/res/drawable/btn_rounded_corner.xml" value="0.25" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.21944444444444444" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/app/src/main/res/drawable/ic_description_24.xml" value="0.21944444444444444" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21944444444444444" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.21944444444444444" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/app/src/main/res/drawable/ic_recipes_24.xml" value="0.21944444444444444" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/app/src/main/res/drawable/inset.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/app/src/main/res/layout-land/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/app/src/main/res/layout/activity_second.xml" value="0.11851851851851852" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/app/src/main/res/layout/fragment_description.xml" value="0.25" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/app/src/main/res/layout/fragment_notifications.xml" value="0.1" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/app/src/main/res/layout/fragment_recipes.xml" value="0.20615384615384616" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/app/src/main/res/layout/recycler_view_item.xml" value="0.1" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/app/src/main/res/layout/temp.xml" value="0.25" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.22" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/laba2/src/main/res/layout/activity_enter.xml" value="0.6928571428571428" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/laba2/src/main/res/layout/activity_wath_list.xml" value="1.0" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/laba2/src/main/res/layout/recycler_view_item.xml" value="0.8892857142857142" />
+        <entry key="..\:/Users/Alex/AndroidStudioProjects/laba2/waer/src/main/res/layout/activity_wear.xml" value="1.3285714285714285" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
